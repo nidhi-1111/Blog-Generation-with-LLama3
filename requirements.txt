@@ -1,10 +1,24 @@
-pypdf
-transformers
-einops
-accelerate
+sentence-transformers
+uvicorn
+ctransformers
 langchain
-bitsandbytes
-pandas
-sentence_transformers
-llama_index
-llama_index_llms_huggingface
+python-box
+streamlit
+groq
+langchain-groq
+python-dotenv
+
+
+
+
+
+# pypdf
+# transformers
+# einops
+# accelerate
+# langchain
+# bitsandbytes
+# pandas
+# sentence_transformers
+# llama_index
+# llama_index_llms_huggingface

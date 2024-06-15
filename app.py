@@ -1,7 +1,7 @@
 import streamlit as st
 from langchain.prompts import PromptTemplate
 from langchain.llms import CTransformers
-from langchain_groq import ChatGroq
+from langchain_groq import ChatGroq 
 from langchain_core.prompts import ChatPromptTemplate
 
 from dotenv import load_dotenv
